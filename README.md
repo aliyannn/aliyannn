@@ -1,4 +1,7 @@
-# 💫 Software Engineer:
+# 💫 About Me:
+
+## Software Engineer:
+
 👋 Hi there! 
 
 I am a passionate Software Engineer with expertise in ReactJS, JavaScript, and TailwindCSS, specializing in building dynamic, responsive web applications. With a strong foundation in frontend development and a commitment to clean, efficient code, I design and build applications that deliver exceptional user experiences. My experience in the MERN stack has allowed me to develop scalable and robust solutions that cater to various business needs.
@@ -11,6 +14,18 @@ I am a passionate Software Engineer with expertise in ReactJS, JavaScript, and T
 * Full-stack development: Building scalable backends using Node.js and Express.
 * Responsive design: Ensuring that all web applications function perfectly across all devices and screen sizes.
 * I’m always looking for opportunities to apply my skills in front-end engineering to solve real-world problems and deliver high-quality software solutions.
+
+## WordPress & Shopify Developer | Digital Marketing Specialist:
+
+Alongside my software engineering expertise, I am also a seasoned WordPress and Shopify developer. I specialize in creating e-commerce solutions and custom websites that are not only visually appealing but also optimized for SEO and conversions. My skills extend beyond development, as I also help businesses grow by implementing digital marketing strategies tailored to their goals.
+
+### What I offer:
+* Custom WordPress development: Building dynamic, SEO-friendly websites that align with your brand.
+* Shopify store creation: Crafting custom, high-converting Shopify stores for e-commerce businesses.
+* SEO optimization: Enhancing website rankings to drive organic traffic and increase sales.
+* Digital marketing expertise: Implementing tailored strategies to increase brand visibility and generate leads through Google Ads, Facebook Ads, and social media marketing.
+* E-commerce growth strategies: Helping businesses scale by optimizing their online presence, driving sales, and boosting customer engagement.
+* I thrive on helping businesses succeed online, from crafting their websites to growing their e-commerce stores through effective marketing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliyan-gohar-♾%EF%B8%8F-218900178//) 
