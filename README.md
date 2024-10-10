@@ -3,7 +3,7 @@
 
 I am a passionate Software Engineer with expertise in ReactJS, JavaScript, and TailwindCSS, specializing in building dynamic, responsive web applications. With a strong foundation in frontend development and a commitment to clean, efficient code, I design and build applications that deliver exceptional user experiences. My experience in the MERN stack has allowed me to develop scalable and robust solutions that cater to various business needs.
 
-## What I excel at:
+### What I excel at:
 * ReactJS development: Crafting seamless, interactive UIs with a focus on performance and usability.
 * JavaScript/ES6+ expertise: Writing clean, efficient, and maintainable code.
 * API integration: Building robust client-server communications using RESTful APIs and GraphQL.
