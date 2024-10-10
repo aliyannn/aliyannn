@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-## Software Engineer:
-
 👋 Hi there! 
+
+## Software Engineer:
 
 I am a passionate Software Engineer with expertise in ReactJS, JavaScript, and TailwindCSS, specializing in building dynamic, responsive web applications. With a strong foundation in frontend development and a commitment to clean, efficient code, I design and build applications that deliver exceptional user experiences. My experience in the MERN stack has allowed me to develop scalable and robust solutions that cater to various business needs.
 
