@@ -46,6 +46,7 @@ Alongside my software engineering expertise, I am also a seasoned WordPress and 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aliyannn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=aliyannn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
